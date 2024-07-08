@@ -1,7 +1,13 @@
 import Verification from "@/Components/Verification";
+import Navbar from "@/Components/Navbar";
 
 const VerificationPage = () => {
-  return <Verification />;
+  return (
+    <div>
+      <Navbar />
+      <Verification />
+    </div>
+  );
 };
 
 export default VerificationPage;

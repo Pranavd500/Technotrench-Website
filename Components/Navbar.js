@@ -34,24 +34,24 @@ function Navbar() {
           </Link>
         </li>
         <li>
-          <a href="#services" className="navbar-links">
+          <Link href="#services" className="navbar-links">
             Services
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#about" className="navbar-links">
+          <Link href="#about" className="navbar-links">
             About
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#reviews" className="navbar-links">
+          <Link href="#reviews" className="navbar-links">
             Reviews
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#contact" className="navbar-links">
+          <Link href="#contact" className="navbar-links">
             Contact
-          </a>
+          </Link>
         </li>
         <li>
           <Link href="/verification" className="navbar-links">
