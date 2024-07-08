@@ -37,9 +37,9 @@ function LegalDocs() {
 
         <p className="legal-title">Terms of Service</p>
         <p className="legal-description">
-          By utilizing TechnoTrench's services, you agree to adhere to our Terms
-          of Service. These terms govern your usage of our platform,
-          interactions with our team, and mutual responsibilities. It's
+          By utilizing TechnoTrench&apos;s services, you agree to adhere to our
+          Terms of Service. These terms govern your usage of our platform,
+          interactions with our team, and mutual responsibilities. It&apos;s
           imperative to familiarize yourself with these terms to ensure a
           seamless experience for all parties involved.
         </p>
@@ -63,9 +63,9 @@ function LegalDocs() {
           At TechnoTrench, our internship program offers a diverse range of
           learning paths, including web and app development, data science, and
           programming in Java, C++, and Python. With hands-on experience and
-          expert mentorship, you'll gain practical skills and personalized
+          expert mentorship, you&apos;ll gain practical skills and personalized
           guidance to navigate complexities. Applying is easy—simply fill out
-          our Google Form to kickstart your career in tech. Don't miss this
+          our Google Form to kickstart your career in tech. Don&apos;t miss this
           opportunity to unlock your potential and thrive in the dynamic world
           of technology with TechnoTrench.
         </p>

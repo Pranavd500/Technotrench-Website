@@ -20,7 +20,7 @@ function About() {
           innovative solutions that redefine business landscapes. Driven by an
           unwavering passion for technology, we harness the power of software to
           revolutionize industries. Our internship program reflects our
-          commitment to shaping tomorrow's tech leaders. We recognize that
+          commitment to shaping tomorrow&apos;s tech leaders. We recognize that
           hands-on experience is paramount in the dynamic tech realm. Thus, we
           offer immersive learning through real-world projects, empowering
           students with practical skills. Backed by industry experts,

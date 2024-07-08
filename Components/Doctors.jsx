@@ -10,7 +10,7 @@ function Doctors() {
         </h3>
 
         <p className="dt-description">
-          At Technotrench, we're dedicated to shaping the tech leaders of
+          At Technotrench, we&apos;re dedicated to shaping the tech leaders of
           tomorrow. Our internship program is your gateway to unlocking endless
           opportunities and realizing your full potential in the dynamic world
           of technology. Dive into hands-on learning, gain valuable experience,

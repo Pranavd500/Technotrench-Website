@@ -18,12 +18,12 @@ function Info() {
         <p className="info-description">
           Technotrench, a premier IT services and consultancy firm, specializes
           in crafting innovative solutions for businesses. Driven by a passion
-          for technology, we firmly believe in software's transformative power.
-          Our internship program stands as a cornerstone of our commitment to
-          shaping the future of the industry. We prioritize practical knowledge,
-          offering hands-on learning through live projects and real-world
-          examples. Join us at Technotrench and unlock your potential in the
-          dynamic world of technology.
+          for technology, we firmly believe in software&apos;s transformative
+          power. Our internship program stands as a cornerstone of our
+          commitment to shaping the future of the industry. We prioritize
+          practical knowledge, offering hands-on learning through live projects
+          and real-world examples. Join us at Technotrench and unlock your
+          potential in the dynamic world of technology.
         </p>
       </div>
 

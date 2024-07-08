@@ -38,12 +38,14 @@ function Reviews() {
           More over <span className="rw-text-num">100+ Enrollments</span>
         </p>
 
-        <p className="rw-text-desc">Don't believe us, Check students word</p>
+        <p className="rw-text-desc">
+          Don&apos;t believe us, Check students word
+        </p>
 
         <p className="rw-text-format">
-          <span className="rw-text-quote1">''</span>
+          <span className="rw-text-quote1">&apos;&apos;</span>
           <span className="rw-review">{rMessage}</span>
-          <span className="rw-text-quote2">''</span>
+          <span className="rw-text-quote2">&apos;&apos;</span>
         </p>
 
         <div className="rw-authors">
