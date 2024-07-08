@@ -4,7 +4,7 @@
 import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
-import "@/styles/Navbar.css";
+import "@/Styles/Navbar.css";
 import Link from "next/link";
 
 function Navbar() {
