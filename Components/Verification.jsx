@@ -2,7 +2,7 @@
 
 "use client";
 import React, { useState } from "react";
-import "@/styles/Verification.css";
+import "@/Styles/Verification.css";
 
 function Verification() {
   const [certificateNumber, setCertificateNumber] = useState("");
