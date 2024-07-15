@@ -10,12 +10,19 @@ function Verification() {
 
   const handleSearch = () => {
     const dummyCertificate = {
-      studentName: "Pranav Desai",
+      studentName: "Rohit Roy",
+      domain: "Cyber Security and Ethical Hacking",
+      duration: "4 weeks",
+      certificateNumber: "PD202401",
+      startDate: "2023-06-18",
+      endDate: "2023-07-18",
+
+      studentName: "Pranav Desa",
       domain: "Web Development",
       duration: "4 weeks",
-      certificateNumber: "dd7e7a7",
-      startDate: "2023-06-01",
-      endDate: "2023-06-29",
+      certificateNumber: "PD202402",
+      startDate: "2023-06-25",
+      endDate: "2023-07-25",
     };
 
     if (certificateNumber === dummyCertificate.certificateNumber) {
