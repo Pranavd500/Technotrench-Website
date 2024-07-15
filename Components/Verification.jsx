@@ -9,39 +9,35 @@ function Verification() {
   const [verificationResult, setVerificationResult] = useState(null);
 
   const handleSearch = () => {
-    const dummyCertificate = {
-      studentName: "Rohit Roy",
-      domain: "Cyber Security and Ethical Hacking",
-      duration: "4 weeks",
-      certificateNumber: "PD202401",
-      startDate: "2023-06-18",
-      endDate: "2023-07-18",
+    const dummyCertificates = [
+      {
+        studentName: "Rohit Roy",
+        domain: "Cyber Security and Ethical Hacking",
+        duration: "4 weeks",
+        certificateNumber: "pd1a1b1",
+        startDate: "2024-06-18",
+        endDate: "2024-07-18",
+      },
+      {
+        studentName: "Naveen Lakshman Kumar Basina",
+        domain: "Data Science",
+        duration: "4 weeks",
+        certificateNumber: "pd1a1b2",
+        startDate: "2024-06-25",
+        endDate: "2024-07-25",
+      },
+    ];
 
-      studentName: "Pranav Desa",
-      domain: "Web Development",
-      duration: "4 weeks",
-      certificateNumber: "PD202402",
-      startDate: "2023-06-25",
-      endDate: "2023-07-25",
+    const result = dummyCertificates.find(
+      (cert) => cert.certificateNumber === certificateNumber
+    );
 
-      studentName: "Pranav Desai",
-      domain: "Web Development",
-      duration: "4 weeks",
-      certificateNumber: "dd7e7a7",
-      startDate: "2023-06-01",
-      endDate: "2023-06-29",
-    };
-
-    if (certificateNumber === dummyCertificate.certificateNumber) {
-      setVerificationResult(dummyCertificate);
-    } else {
-      setVerificationResult(null);
-    }
+    setVerificationResult(result || null);
   };
 
   return (
     <div className="verification-container">
-      <h1>Your Certificate are verified </h1>
+      <h1>Your Certificates are Verified</h1>
       <h2>Certificate Verification</h2>
       <input
         type="text"
