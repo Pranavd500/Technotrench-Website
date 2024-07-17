@@ -26,6 +26,30 @@ function Verification() {
         startDate: "2024-06-25",
         endDate: "2024-07-25",
       },
+      {
+        studentName: "Ranjeet Singh ",
+        domain: "Data Science",
+        duration: "4 weeks",
+        certificateNumber: "tt1a1b3",
+        startDate: "2024-06-18",
+        endDate: "2024-07-18",
+      },
+      {
+        studentName: "Shubham Kumar Gupta ",
+        domain: "Artificial Intelligence",
+        duration: "4 weeks",
+        certificateNumber: "tt1a1b4",
+        startDate: "2024-06-18",
+        endDate: "2024-07-18",
+      },
+      {
+        studentName: "Chetna Kishor Kothawade. ",
+        domain: "Python Programming",
+        duration: "4 weeks",
+        certificateNumber: "tt1a1b5",
+        startDate: "2024-06-18",
+        endDate: "2024-07-18",
+      },
     ];
 
     const result = dummyCertificates.find(
