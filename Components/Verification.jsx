@@ -66,6 +66,22 @@ function Verification() {
         startDate: "2024-07-16",
         endDate: "2024-08-16",
       },
+      {
+        studentName: "Vijaykumar Vilas Patil",
+        domain: "Cyber Security and Ethical Hacking",
+        duration: "4 weeks",
+        certificateNumber: "tt1a1b7",
+        startDate: "2024-07-16",
+        endDate: "2024-08-16",
+      },
+      {
+        studentName: "Swarnava Pal",
+        domain: "Cyber Security and Ethical Hacking",
+        duration: "4 weeks",
+        certificateNumber: "tt1a1b7",
+        startDate: "2024-07-30",
+        endDate: "2024-08-30",
+      },
     ];
 
     const result = dummyCertificates.find(
