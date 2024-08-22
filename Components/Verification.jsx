@@ -74,6 +74,22 @@ function Verification() {
         startDate: "2024-07-30",
         endDate: "2024-08-30",
       },
+      {
+        studentName: "Sampita Debnath",
+        domain: "Python Programming",
+        duration: "4 weeks",
+        certificateNumber: "tt1a1b9",
+        startDate: "2024-07-30",
+        endDate: "2024-08-30",
+      },
+      {
+        studentName: "Nitesh Raju Wadekar",
+        domain: "Python Programming",
+        duration: "4 weeks",
+        certificateNumber: "tt1a2b1",
+        startDate: "2024-07-23",
+        endDate: "2024-08-23",
+      },
     ];
 
     const result = dummyCertificates.find(
