@@ -90,6 +90,14 @@ function Verification() {
         startDate: "2024-07-23",
         endDate: "2024-08-23",
       },
+      {
+        studentName: "Athithya Sivasankarar",
+        domain: "Cyber Security and Ethical Hacking",
+        duration: "4 weeks",
+        certificateNumber: "tt1a2b2",
+        startDate: "2024-07-23",
+        endDate: "2024-08-23",
+      },
     ];
 
     const result = dummyCertificates.find(
